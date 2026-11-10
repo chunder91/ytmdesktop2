@@ -53,3 +53,6 @@ test-results/
 
 # Internal testing scripts
 apps/ytmdesktop2/scripts/find-player-api-console.js
+
+# Local/CI npmrc (CI writes a fresh copy with an auth token from secrets)
+.npmrc
